@@ -26,11 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/med190dx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="med190dx" /></a></p><br><br>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinmyblood&show_icons=true&locale=en" alt="devinmyblood" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinmyblood&" alt="devinmyblood" /></p>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=devinmyblood&show_icons=true&locale=en" alt="devinmyblood" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=devinmyblood&" alt="devinmyblood" />
 
